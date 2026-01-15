@@ -97,9 +97,10 @@ I value **engineering rigor, teamwork, and clarity**, and I am continuously impr
 ## 📫 Contact
 
 - 📧 Email: 12313616@mail.sustech.edu.cn  
-- 🌐 GitHub: https://github.com/Kabukimono-Sakura  
+- 🌐 GitHub: https://github.com/Kabukimono-Sakura
+- 🎓 Personal Homepage: https://kabukimono-sakura.github.io/
 
 ---
 
-> *“Sun melt into sunset, and you melt into youth.”*
-> *“夕日が夕焼けに沈むように、あなたは優しさに沈む。”*
+>- *“Sun melt into sunset, and you melt into youth.”*
+>- *“夕日が夕焼けに沈むように、あなたは優しさに沈む。”*
