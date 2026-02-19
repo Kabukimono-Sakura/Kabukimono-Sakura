@@ -2,7 +2,7 @@
 
 🎓 **CS Undergraduate (Junior) @ Southern University of Science and Technology (SUSTech)**  
 📍 Zhicheng College  
-📊 GPA: **3.79 / 4.0** (Major Rank: **42 / 150**)  
+📊 GPA: **3.81 / 4.0** (Major Rank: **35 / 150**)  
 
 ---
 
